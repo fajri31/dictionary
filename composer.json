@@ -1,0 +1,15 @@
+{
+    "name": "minion48/fajri",
+    "description": "dictionary",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Fajri\\Dictionary\\": "/"
+        },
+        "files": [
+            "helpers.php"
+        ]
+    }
+}
